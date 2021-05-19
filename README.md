@@ -1,24 +1,24 @@
 # Jira-Ticket-Software
 
-It is a software where we can generate tickets to make things noted down on a place.
+1) It is a software where we can generate tickets to make things noted down on a place.
 
-I have used local storage in the browser to set your generated tickets remember by the brower for future purpose.
+2) Implemented local storage in the browser to set your generated tickets remember by the brower for future purpose.
 
-I have implemented features like delete using delete button, by making in on and clicking on ticket will delete the ticket from UI as well as the local storage.
+3) Implemented features like delete using delete button, by making in on and clicking on ticket will delete the ticket from UI as well as the local storage.
 
-Implemented Add button to add tickets.
+4) Implemented Add button to add tickets, it will create a ticket both on UI and in browser's local storage after pressing Enter button.
 
-Colours containers in toolbar will show tickets of a particular colour.
+5) Colours containers in toolbar will show tickets of a particular colour.
 
-To show all the tickets, i have implemented Heart Button on the toolbar which show all the current ticketsmade by the user.
+6) To show all the tickets, i have implemented Heart Button on the toolbar which show all the current tickets made by the user.
 
-All the features are also implemented after reloading the browser i.e. after adding in local storage.
+7) All the features will survive even after reloading the browser i.e. implemented using local storage in browser.
 
-Each Ticket has a usique id in-built which will differentiate between different tasks.
+8) Each Ticket has a unique in-built id which will differentiate between different tasks of same category or same colour.
 
-We can edit the each and every ticket for getting data change.
+9) We can edit each and every ticket for getting data change.
 
-I have also implemented Lock Button. After making it on, it will lock each and every function of the application.
+10) Implemented Lock Button. After making it on, it will lock each and every function of the application.
 
 Here is the Glimplse of UI:
 
